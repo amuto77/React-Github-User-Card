@@ -50,7 +50,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
         </header>
-          <div className="MyInfo">
+          <div className="my-info">
             <h1>My Followers</h1>
           </div>
           <div class="cards">
